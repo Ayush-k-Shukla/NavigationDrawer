@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item
+        android:icon="@drawable/home_icon"
+        android:id="@+id/nav_home"
+        android:title="Home"
+        />
+
+    <item
+        android:icon="@drawable/chat_icon"
+        android:id="@+id/nav_chat"
+        android:title="Chat"
+        />
+
+    <item
+        android:icon="@drawable/review_icon"
+        android:id="@+id/nav_Review"
+        android:title="Review"
+        />
+
+    <item
+        android:icon="@drawable/settings_icon"
+        android:id="@+id/nav_settings"
+        android:title="Settings"
+        />
+
+    <item
+        android:icon="@drawable/logout_icon"
+        android:id="@+id/nav_SignOut"
+        android:title="SignOut"
+        />
+
+
+    <item
+        android:icon="@drawable/contactus_icon"
+        android:id="@+id/nav_Review"
+        android:title="ContactUs"
+        />
+    <item
+        android:icon="@drawable/ic_menu_share"
+        android:id="@+id/nav_share"
+        android:title="Share"
+        />
+
+</menu>
